@@ -24,3 +24,9 @@ Place all your data sources in this directory. These can be text files, CSVs, or
 
 ### minGPT by Andrej Kaparthy
 [minGPT Github Repository](https://github.com/karpathy/minGPT)
+
+## Instructions
+### 1. Edit the following paths in the notebooks according to your setup:
+```python
+MINGPT_PATH = 'YOUR_PATH_TO_MIN_GPT'
+DATA_SRC_PATH = 'YOUR_PATH_TO_DATA_SOURCE'```
